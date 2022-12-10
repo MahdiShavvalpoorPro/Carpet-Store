@@ -1,0 +1,4 @@
+col-lg-3  *4=12 for computer
+col-md-4 *3=12 for tablet
+col-sm-6 *2=12 for  
+col-xs-12 *1=12 for smart phone 
