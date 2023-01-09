@@ -44,18 +44,18 @@ function Content(){
                 <th>وضعیت</th>
                 <th>دلیل</th>
             </tr>
-            <?php foreach ($data as $item) : ?>
-                <tr>
-                    <td><?php echo $item->name;?></td>
-                    <td>محمد</td>
-                    <td>11-7-2014</td>
-                    <td><span class="badge badge-success">تایید شده</span></td>
-                    <td>
-                        <a href="#" class="btn btn-primary">ویرایش</a>
-                        <a href="#" class="btn btn-danger">حذف</a>
-                    </td>
-                </tr>
-            <?php endforeach; ?>
+<!--            --><?php //foreach ($data as $item) : ?>
+<!--                <tr>-->
+<!--                    <td>--><?php //echo $item->name;?><!--</td>-->
+<!--                    <td>محمد</td>-->
+<!--                    <td>11-7-2014</td>-->
+<!--                    <td><span class="badge badge-success">تایید شده</span></td>-->
+<!--                    <td>-->
+<!--                        <a href="#" class="btn btn-primary">ویرایش</a>-->
+<!--                        <a href="#" class="btn btn-danger">حذف</a>-->
+<!--                    </td>-->
+<!--                </tr>-->
+<!--            --><?php //endforeach; ?>
 
             <tr>
                 <td>219</td>
